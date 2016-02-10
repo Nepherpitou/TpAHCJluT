@@ -28,7 +28,7 @@ namespace TpaHCJluT.modules
             {
                 'в', new List<string>
                 {
-                    "B"
+                    "B", "l3"
                 }
             },
             {
@@ -40,7 +40,7 @@ namespace TpaHCJluT.modules
             {
                 'д', new List<string>
                 {
-                    "D"
+                    "D", "g"
                 }
             },
             {
@@ -70,7 +70,7 @@ namespace TpaHCJluT.modules
             {
                 'и', new List<string>
                 {
-                    "u", "N"
+                    "u"
                 }
             },
             {
@@ -208,7 +208,7 @@ namespace TpaHCJluT.modules
             {
                 'я', new List<string>
                 {
-                    "9l", "9", "ja"
+                    "9l", "9"
                 }
             }
         };
