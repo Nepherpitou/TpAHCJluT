@@ -1,0 +1,13 @@
+﻿<Window x:Class="TpaHCJluT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TpaHCJluT"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="252" Width="374" Initialized="Window_Initialized" Icon="nepko_confused.ico" ResizeMode="CanMinimize">
+    <Grid>
+        <TextBlock x:Name="textBlock" Margin="10,10,10,0" TextWrapping="Wrap" Text="Тут ничего нет" VerticalAlignment="Center" FontSize="18.667" HorizontalAlignment="Center"/>
+
+    </Grid>
+</Window>
